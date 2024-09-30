@@ -1,0 +1,6 @@
+.bg-custom {
+    background-image: url('../../../asset/img/landbank.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%; /* Stretch the image to fill the container */
+}
